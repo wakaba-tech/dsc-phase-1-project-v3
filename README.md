@@ -13,11 +13,21 @@ In this project description, we will cover:
 
 ## Project Overview
 
-For this project, you will use data cleaning, imputation, analysis, and visualization to generate insights for a business stakeholder.
+The project aims at knowing which aircrafe is good for the business and their risk when venturing into the aviation sector. this done by analyzing historical aviation accident data of 1962 to 2023 provided to us by national transportation board. the project aims how to identify the risk and how to improve them to win the passagers trust when using the aircraft.
 
 ### Business Problem
 
 Your company is expanding in to new industries to diversify its portfolio. Specifically, they are interested in purchasing and operating airplanes for commercial and private enterprises, but do not know anything about the potential risks of aircraft. You are charged with determining which aircraft are the lowest risk for the company to start this new business endeavor. You must then translate your findings into actionable insights that the head of the new aviation division can use to help decide which aircraft to purchase.
+
+### Business understanding
+The company is aiming to venture into an aviation industries and requires an informed analyses of accident data for a good desicion making. You need to know which aircraftare model or type that has lowest risk.this analyses will help you to make the right desicion in risk management, airplain maintance welfare of the passangers and future invesment.
+
+The objective of this project is to identify the risk that are associated by aviation business. the big question that is driving this project is 'which aircraft model and types are the lowest risk in accident?. This will help the company in making desicion on which airplain to purchase.
+
+### Project goal
+The goal of the project is to anlyze the aviation accident data and identify which air craft is good and has the lowest operational and maintanance risk. through this data the company will be in a position to make the right the right desicion and maximise their profit in the business,also the safty of the passanger and cargo will be put in place.
+
+
 
 ### The Data
 
